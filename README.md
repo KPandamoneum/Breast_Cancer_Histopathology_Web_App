@@ -17,14 +17,12 @@ The PyTorch model used in this project was created by Laura Fink. You can find m
    ```bash
    pip install -r requirements.txt
    ```
-
-
 2. Start the Django development server:
 
    ```bash
    python manage.py runserver
    ```
-3. Access the web application in your browser at `http://localhost:8000/`.
+3. Access the web application in your browser at `http://127.0.0.1:8000/`.
 4. Upload a histopathology image and click the "Submit" button to get the prediction result.
 5. Alternatively, you can run the `run.bat` file after you have installed the dependencies then go to the instructed link.
 
